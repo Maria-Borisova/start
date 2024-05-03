@@ -3,8 +3,12 @@ h1 {
 }
 div {
     color: dodgerblue;
+<<<<<<< HEAD
 }
 p {
     background: plum;
     color: yellow;
+=======
+    background-color: plum;
+>>>>>>> second-task
 }
